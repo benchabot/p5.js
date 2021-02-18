@@ -81,7 +81,6 @@
     "release-it": "^12.6.2",
     "request": "^2.88.0",
     "whatwg-fetch": "^2.0.4"
-    "chart.js": "2.0.0"
   },
   "license": "LGPL-2.1",
   "main": "./lib/p5.js",
